@@ -3,7 +3,7 @@ Shared materials for all NTI scholars
 ## Resource Links
 
 - **Session Recordings, Slides, and Tasks:**  
-  [Google Drive Folder](DRIVE_LINK) – Contains all session recordings, slides, and tasks.
+  [Google Drive Folder](https://drive.google.com/drive/folders/18uZMXejDhgjOpa0511A5jB7VBSDQSctm?usp=drive_link) – Contains all session recordings, slides, and tasks.
 
 - **Notebooks:**  
   [Google Docs Folder](DOCS_LINK) – Contains all notebooks collected in one place.
